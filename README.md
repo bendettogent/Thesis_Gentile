@@ -14,11 +14,11 @@ This repository contains the code, data, and documentation related to my thesis,
 ## Repository Structure
 
 The repository is organized as follows:
-├── src/                # Source code \\
-│   ├── BS              # Black-Scholes models \\
-│   ├── Donsken         # Donsker models \\
-│   └── MJD             # Merton Jump Diffusion models \\
-└── README              # This file \\ 
+├── src/                # Source code  
+│   ├── BS              # Black-Scholes models  
+│   ├── Donsken         # Donsker models  
+│   └── MJD             # Merton Jump Diffusion models  
+└── README              # This file  
 
 In each of the three model directories (`BS`, `Donsken`, `MJD`), the following files and folders are present:
 
